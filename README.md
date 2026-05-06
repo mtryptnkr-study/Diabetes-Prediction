@@ -47,6 +47,11 @@ The dataset used in this project is related to diabetes diagnosis (commonly the 
 
 ### 5. Evaluation Metrics
 
-
----
 Stil in progress
+---
+
+## Reference
+[1] R. Rajkamal, et al. "Diabetes prediction using derived features and ensembling of boosting classifiers," Computers, Materials & Continua,DOI:10.32604/cmc.2022.027142, 2022.
+
+
+
